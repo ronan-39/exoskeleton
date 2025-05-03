@@ -1,0 +1,6 @@
+mujoco==3.3.2
+numpy==2.2.5
+gymnasium==1.1.1
+imageio==2.37.0
+stable_baselines3==2.6.0
+mediapy
