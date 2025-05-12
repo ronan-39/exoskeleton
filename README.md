@@ -21,3 +21,5 @@ Install pipreqs `pip install pipreqs`
 After installing new dependencies with pip, do `pipreqs ./` in the root directory of the repo.
 From there, you can do `pip install -r requirements.txt`
 
+View results with 
+`tensorboard --logdir=sac_logs/`
